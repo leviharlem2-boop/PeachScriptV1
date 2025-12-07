@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Skidov3 update, visit https://discord.gg/vJkPBXFqFT for the updated script")
+game.Players.LocalPlayer:Kick("Im too poor to make a script ;( ")
