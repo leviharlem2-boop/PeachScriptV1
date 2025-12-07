@@ -1,2 +1,1 @@
-# PeachScriptV1
-Good Good Script (def not kicking you)
+game.Players.LocalPlayer:Kick("Skidov3 update, visit https://discord.gg/vJkPBXFqFT for the updated script")
